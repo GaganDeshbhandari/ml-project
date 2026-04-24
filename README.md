@@ -11,7 +11,7 @@ This repository contains the ML pipeline that trains and saves models to priorit
 ---
 
 ## Repository Structure
-
+```
 mini-project/
 ├── scripts.ipynb              
 ├── datasets/
@@ -20,7 +20,7 @@ mini-project/
 ├── random_forest_model.pkl    
 ├── random_forest_model_o1.pkl 
 └── scaler.pkl                 
-
+```
 ---
 
 ## Datasets
